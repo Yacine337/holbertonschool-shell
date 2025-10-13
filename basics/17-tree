@@ -1,0 +1,2 @@
+#!/bin/bash
+touch /pwd welcome/ welcome/to/ welcome/to/school
