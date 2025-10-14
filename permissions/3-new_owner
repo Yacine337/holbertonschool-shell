@@ -1,3 +1,2 @@
 #!/bin/bash
-TARGET="hello"
-NEW_OWNER="betty"
+chown betty hello
